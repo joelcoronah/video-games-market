@@ -92,6 +92,10 @@
 
     &-platforms {
         display:flex;
+
+        img {
+            margin: 5px;
+        }
     }
 
     &-platform {
